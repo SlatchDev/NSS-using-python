@@ -15,6 +15,6 @@ This code isn't cleaned or optimized nor organized, It was just a school project
 - watch the magic happen!
 
 ## Notes ❗️
-- Only tested succesfull for windows 10, Prodduced an error on Linux mint 20.3 Not sure about the rest.
+- Only tested succesfull for windows 10, Produced an error on Linux mint 20.3 Not sure about the rest.
 - Takes so long to give resutls and consumes alot of resources if too many days and food were specefied due to bad optimization as I said.
 - Isn't accurate and has some faults when it comes to real natural selection and genetics.
